@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "CRUDSqlite2110003.app"
-               BlueprintName = "CRUDSqlite2110003"
-               ReferencedContainer = "container:CRUDSqlite2110003.xcodeproj">
+               BuildableName = "TokoKita.app"
+               BlueprintName = "TokoKita"
+               ReferencedContainer = "container:TokoKita.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "CRUDSqlite2110003Tests.xctest"
-               BlueprintName = "CRUDSqlite2110003Tests"
-               ReferencedContainer = "container:CRUDSqlite2110003.xcodeproj">
+               BuildableName = "TokoKitaTests.xctest"
+               BlueprintName = "TokoKitaTests"
+               ReferencedContainer = "container:TokoKita.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "CRUDSqlite2110003.app"
-            BlueprintName = "CRUDSqlite2110003"
-            ReferencedContainer = "container:CRUDSqlite2110003.xcodeproj">
+            BuildableName = "TokoKita.app"
+            BlueprintName = "TokoKita"
+            ReferencedContainer = "container:TokoKita.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "CRUDSqlite2110003.app"
-            BlueprintName = "CRUDSqlite2110003"
-            ReferencedContainer = "container:CRUDSqlite2110003.xcodeproj">
+            BuildableName = "TokoKita.app"
+            BlueprintName = "TokoKita"
+            ReferencedContainer = "container:TokoKita.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

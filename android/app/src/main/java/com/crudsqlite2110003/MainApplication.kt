@@ -1,4 +1,4 @@
-package com.crudsqlite2110003
+package com.TokoKita
 
 import android.app.Application
 import com.facebook.react.PackageList
